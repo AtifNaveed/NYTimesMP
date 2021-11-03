@@ -25,10 +25,10 @@ This SAMPLE application is written in Swift using MVVM. Unit testing bundle is a
 - Get api key
 - Add api key in SAMPLE Application config
 
-## Unit Test:
-- Unit test is added to perform api call and response testing.
-
 ## Pods iOS:
 - Alamofire https://github.com/Alamofire/Alamofire
 - Hud https://github.com/AtifNaveed/SwiftyProgressHud
 
+
+# Unit Test:
+- Unit test is added to perform api call and response testing.
