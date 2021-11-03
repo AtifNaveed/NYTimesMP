@@ -1,6 +1,7 @@
 # NYTimes-Demo:
-Typical master detail SAMPLE application written in Swift to test NY Times Most Popular Articles API and show a list of news.
-This SAMPLE application is written in Swift using MVVM. Unit testing bundle is added to test api implementation.
+Typical master detail SAMPLE application written in Swift to test NY Times Most Popular API.
+This SAMPLE application is written in Swift using MVVM. 
+Unit test bundle is added to test api implementation.
 
 ## List will display following:
 - Title
