@@ -16,8 +16,8 @@ This SAMPLE application is written in Swift using MVVM.
 {section}/{period}
 
 ## iOS Screenshots:
-![alt image is missing](https://res.cloudinary.com/atifcloud/image/upload/c_scale,h_763/v1635947007/2.53.39_jvgjtt.png)
 ![alt image is missing](https://res.cloudinary.com/atifcloud/image/upload/c_scale,h_763/v1635947004/1.53.31_qosbc0.png)
+![alt image is missing](https://res.cloudinary.com/atifcloud/image/upload/c_scale,h_763/v1635947007/2.53.39_jvgjtt.png)
 
 ## How to run this demo?
 - Sign up as developer @ https://developer.nytimes.com
