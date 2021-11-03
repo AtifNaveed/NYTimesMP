@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-NYTimeMPSwift/Pods-NYTimeMPSwift-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/SwiftyProgressHud/SwiftyProgressHud.framework
