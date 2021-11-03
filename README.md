@@ -1,6 +1,6 @@
 # NYTimes-Demo:
 Typical master detail SAMPLE application written in Swift to test NY Times Most Popular Articles API and show a list of news.
-This SAMPLE application is written in Swift using MVVM. 
+This SAMPLE application is written in Swift using MVVM. Unit testing bundle is added to test api implementation.
 
 ## List will display following:
 - Title
@@ -24,6 +24,9 @@ This SAMPLE application is written in Swift using MVVM.
 - Create an application
 - Get api key
 - Add api key in SAMPLE Application config
+
+## Unit Test:
+- Unit test is added to perform api call and response testing.
 
 ## Pods iOS:
 - Alamofire https://github.com/Alamofire/Alamofire
